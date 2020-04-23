@@ -1,4 +1,4 @@
-# Face_recognition_unlocking
+# Face_recognition_unlocking_with_hand_gesture
 This project is about facial recognition where in a user is recognized by his/her face and if it matches with the data-set provided, the phone will unlock.
 The acuracy of the project is given in terms of 'matched parameter' in green or red. 
 If it doesn't match, the UI simply tells how similar your face is to the phone's owner and hence decides whether to unlock or not.
